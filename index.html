@@ -25,7 +25,6 @@
                     <li class="twitter"><a href="http://twitter.com/CMIBadgers/" target="_blank"><span class="hide">twitter</span></a></li>
                     <li class="facebook"><a href="http://facebook.com/CMIBadgers/" target="_blank"><span class="hide">facebook</span></a></li>
                     <li class="instagram"><a href="https://instagram.com/CMIBadgers/" target="_blank"><span class="hide">instagram</span></a></li>
-
                 </ul>
             </div><!--end of col-->
         </div><!--end of row-->
@@ -53,7 +52,39 @@
 
     </div><!--end nav-->
 
+    <section id="class">
+        <div class="row">
+            <div class="columns">
+                <h2>Let's Get in Touch!</h2>
+                <hr class="primary">
+                <p>Have any questions? Send us an email!</p>
+            </div>
+        </div>
 
+        <form data-abide action="FormToEmail.php" method="post" enctype="multipart/form-data" >
+            <div class="row">
+                <fieldset>
+                    <legend>Contact</legend>
+                    <div class="small-12 medium-9 columns">
+                        <div><!-- Wrap the label and error message in a division. Add required to the input -->
+                            <label>First <small>required</small><input type="text" name="FIRST:" placeholder="First Name" required></label>
+                            <small class="error">Name required and must contain only letter</small>
+                        </div>
+
+                        <div>
+                            <label>Email <small>required</small><input type="text" name="Email:" placeholder="Email" required></label>
+                            <small class="error">Valid email required</small>
+                        </div>
+
+                        <label>Message<textarea type="message" name="Message:" placeholder="Body Message"></textarea></label>
+                    </div>
+                </fieldset>
+            </div>
+            <div class="row">
+                <button name="submit" id="submit" class="small-2">Send Email</button>
+            </div>
+        </form>
+    </section>
 
 
 

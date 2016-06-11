@@ -4,13 +4,16 @@ header{
     padding: 1em 0 .5em 0;
 }
 
+hr{
+    width: 15%;
+}
+
+
 div.logo{
     height: 68px;
     float: left;
     background-repeat: no-repeat;
 }
-
-
 
 header ul.social {
     margin: .5em 0 0 0;
@@ -51,5 +54,9 @@ header ul.social li.instagram a {background-image: url(../images/social_insta.pn
     div.logo h2{
         margin-left: 4.3em;
         margin-top: 0.3em;
+    }
+
+    #submit{
+        margin-top: 0.5em;
     }
 }
