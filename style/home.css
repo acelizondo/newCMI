@@ -1,11 +1,20 @@
 /*--------------------------------------------PHONE DEFAULT-----------------------------------------------------------*/
 header{
-    background-color: #f2f2f2;
+    background-color: #f6f6f6;
     padding: 1em 0 .5em 0;
 }
 
 hr{
     width: 15%;
+}
+
+button{
+    box-shadow: 3px 3px 5px;
+}
+
+button:hover, button:focus, .button:hover, .button:focus {
+    box-shadow: 3px 3px 5px;
+    background-color: darkslategrey;
 }
 
 
@@ -41,6 +50,10 @@ header ul.social li.twitter a {background-image: url(../images/social_twitter.pn
 header ul.social li.facebook a {background-image: url(../images/social_face.png);}
 header ul.social li.instagram a {background-image: url(../images/social_insta.png);}
 
+#submit{
+    margin-top: 0.5em;
+}
+
 
 
 /*--------------------------------------------TABLET DEFAULT----------------------------------------------------------*/
@@ -56,7 +69,5 @@ header ul.social li.instagram a {background-image: url(../images/social_insta.pn
         height: 90px;
     }
 
-    #submit{
-        margin-top: 0.5em;
-    }
+
 }

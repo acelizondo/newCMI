@@ -1,3 +1,12 @@
+<?php
+/**
+ * Created by PhpStorm.
+ * User: aaron
+ * Date: 6/12/16
+ * Time: 7:40 PM
+ */
+?>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -41,11 +50,11 @@
             <section class="top-bar-section">
                 <ul class="left">
                     <li class="divider"></li>
-                    <li class="active"><a href="index.html">Home</a></li><li class="divider"></li>
+                    <li><a href="index.html">Home</a></li><li class="divider"></li>
                     <li><a href="#">About Us</a></li><li class="divider"></li>
                     <li><a href="#">Photos</a></li><li class="divider"></li>
                     <li><a href="#">Events</a></li><li class="divider"></li>
-                    <li><a href="contact.php">Contact</a></li><li class="divider"></li>
+                    <li class="active"><a href="contact.php">Contact</a></li><li class="divider"></li>
                 </ul>
             </section>
         </nav>
@@ -60,7 +69,7 @@
             </div>
         </div>
 
-        <form data-abide action="contact.php" method="post" enctype="multipart/form-data" >
+        <form data-abide action="#" method="post" enctype="multipart/form-data" >
             <div class="row">
                 <fieldset>
                     <legend>Contact</legend>
