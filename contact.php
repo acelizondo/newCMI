@@ -19,6 +19,7 @@
     <link rel="stylesheet" href="library/foundation-5.5.3/css/foundation.css" type="text/css"/>
     <link rel="stylesheet" href="library/foundation-5.5.3/css/normalize.css" type="text/css"/>
     <link rel="stylesheet" href="style/home.css" type="text/css"/>
+    <link rel="stylesheet" href="style/footer.css" type="text/css" />
 
 </head>
 <body>
@@ -83,6 +84,10 @@
                             <label>Email <small>required</small><input type="text" name="Email:" placeholder="Email" required></label>
                             <small class="error">Valid email required</small>
                         </div>
+                        <input type="checkbox" name="checkbox1" id="checkbox1"> <label for="checkbox1">I want to know more about your next activity!</label>
+                        <input type="checkbox" name="checkbox2" id="checkbox2"> <label for="checkbox2">How can I get involved?</label>
+                        <br><input type="checkbox" name="checkbox3" id="checkbox3"> <label for="checkbox3">I want to know more about your group!</label>
+                        <input type="checkbox" name="checkbox4" id="checkbox4"> <label for="checkbox4">I'd like a Bible study!</label>
 
                         <label>Other<textarea type="message" name="Message:" placeholder="Body Message"></textarea></label>
                     </div>
@@ -94,7 +99,15 @@
         </form>
     </section>
 
-
+    <footer>
+        <div class="row">
+            <div class="small-12">
+                <div class="socialFoot">&#62220;</div>
+                <div class="socialFoot">&#62217;</div>
+                <div class="socialFoot">&#62253;</div>
+            </div>
+        </div>
+    </footer>
 
 
     <script type="text/javascript" src="library/jquery/jquery-2.2.3.js"></script>

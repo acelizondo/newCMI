@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e0e300bf-dea8-4651-9850-d5cd0ed8aea5" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contact.php" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/logoL.jpg" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/contact.php" afterPath="$PROJECT_DIR$/contact.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/foundation-5.5.3/css/foundation.css" afterPath="$PROJECT_DIR$/library/foundation-5.5.3/css/foundation.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/style/home.css" afterPath="$PROJECT_DIR$/style/home.css" />
     </list>
     <ignored path="newCMI.iws" />
@@ -32,18 +29,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="49" column="22" selection-start-line="49" selection-start-column="22" selection-end-line="49" selection-end-column="22" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="foundation.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/library/foundation-5.5.3/css/foundation.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="1167" column="59" selection-start-line="1167" selection-start-column="2" selection-end-line="1167" selection-end-column="59" />
+            <state relative-caret-position="273">
+              <caret line="93" column="4" selection-start-line="93" selection-start-column="4" selection-end-line="101" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -52,8 +39,18 @@
       <file leaf-file-name="home.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/style/home.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="36" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
+            <state relative-caret-position="30">
+              <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="29" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="footer.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/style/footer.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -62,17 +59,17 @@
       <file leaf-file-name="contact.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/contact.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-42">
-              <caret line="52" column="58" selection-start-line="52" selection-start-column="58" selection-end-line="52" selection-end-column="58" />
+            <state relative-caret-position="513">
+              <caret line="109" column="13" selection-start-line="109" selection-start-column="13" selection-end-line="109" selection-end-column="13" />
               <folding>
                 <element signature="e#6#86#0#PHP" expanded="true" />
-                <marker date="1465779093544" expanded="true" signature="2687:3874" placeholder="..." />
-                <marker date="1465779093544" expanded="true" signature="2718:3707" placeholder="..." />
-                <marker date="1465779093544" expanded="true" signature="2745:3688" placeholder="..." />
-                <marker date="1465779093544" expanded="true" signature="2850:3660" placeholder="..." />
-                <marker date="1465779093544" expanded="true" signature="2880:3233" placeholder="..." />
-                <marker date="1465779093544" expanded="true" signature="3264:3508" placeholder="..." />
-                <marker date="1465779093544" expanded="true" signature="3737:3858" placeholder="..." />
+                <marker date="1465787823584" expanded="true" signature="2757:4524" placeholder="..." />
+                <marker date="1465787823584" expanded="true" signature="2788:4357" placeholder="..." />
+                <marker date="1465787823584" expanded="true" signature="2815:4338" placeholder="..." />
+                <marker date="1465787823584" expanded="true" signature="2920:4310" placeholder="..." />
+                <marker date="1465787823584" expanded="true" signature="2950:3303" placeholder="..." />
+                <marker date="1465787823584" expanded="true" signature="3334:3578" placeholder="..." />
+                <marker date="1465787823584" expanded="true" signature="4387:4508" placeholder="..." />
               </folding>
             </state>
           </provider>
@@ -96,10 +93,12 @@
       <list>
         <option value="$PROJECT_DIR$/library/foundation/css/foundation.css" />
         <option value="$PROJECT_DIR$/library/foundation-5.5.3/css/foundation.css" />
-        <option value="$PROJECT_DIR$/style/home.css" />
         <option value="$PROJECT_DIR$/images/contact.php" />
-        <option value="$PROJECT_DIR$/contact.php" />
+        <option value="$PROJECT_DIR$/style/home.css" />
+        <option value="$PROJECT_DIR$/resources/icons/index.html" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/resources/icons/css/style.css" />
+        <option value="$PROJECT_DIR$/contact.php" />
       </list>
     </option>
   </component>
@@ -156,6 +155,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="newCMI" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="newCMI" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="newCMI" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="style" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -242,10 +255,11 @@
       <recent name="$PROJECT_DIR$/library/jquery" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/style" />
+      <recent name="$PROJECT_DIR$/resources" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/library/images" />
       <recent name="$PROJECT_DIR$/library/foundation" />
-      <recent name="$PROJECT_DIR$/library" />
     </key>
   </component>
   <component name="RunManager">
@@ -284,7 +298,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1465667826941</updated>
-      <workItem from="1465667828268" duration="23007000" />
+      <workItem from="1465667828268" duration="29090000" />
     </task>
     <task id="LOCAL-00001" summary="changing default">
       <created>1465678762099</created>
@@ -311,7 +325,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23007000" />
+    <option name="totallyTimeSpent" value="29090000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="24" width="1301" height="744" extended-state="6" />
@@ -440,35 +454,67 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/resources/icons/css/reset.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/icons/README.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="91" selection-start-line="0" selection-start-column="54" selection-end-line="0" selection-end-column="91" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/icons/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="36" selection-start-line="24" selection-start-column="36" selection-end-line="24" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/style/home.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="36" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
+        <state relative-caret-position="30">
+          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/style/footer.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="49" column="22" selection-start-line="49" selection-start-column="22" selection-end-line="49" selection-end-column="22" />
+        <state relative-caret-position="273">
+          <caret line="93" column="4" selection-start-line="93" selection-start-column="4" selection-end-line="101" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/contact.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-42">
-          <caret line="52" column="58" selection-start-line="52" selection-start-column="58" selection-end-line="52" selection-end-column="58" />
+        <state relative-caret-position="513">
+          <caret line="109" column="13" selection-start-line="109" selection-start-column="13" selection-end-line="109" selection-end-column="13" />
           <folding>
             <element signature="e#6#86#0#PHP" expanded="true" />
-            <marker date="1465779093544" expanded="true" signature="2687:3874" placeholder="..." />
-            <marker date="1465779093544" expanded="true" signature="2718:3707" placeholder="..." />
-            <marker date="1465779093544" expanded="true" signature="2745:3688" placeholder="..." />
-            <marker date="1465779093544" expanded="true" signature="2850:3660" placeholder="..." />
-            <marker date="1465779093544" expanded="true" signature="2880:3233" placeholder="..." />
-            <marker date="1465779093544" expanded="true" signature="3264:3508" placeholder="..." />
-            <marker date="1465779093544" expanded="true" signature="3737:3858" placeholder="..." />
+            <marker date="1465787823584" expanded="true" signature="2757:4524" placeholder="..." />
+            <marker date="1465787823584" expanded="true" signature="2788:4357" placeholder="..." />
+            <marker date="1465787823584" expanded="true" signature="2815:4338" placeholder="..." />
+            <marker date="1465787823584" expanded="true" signature="2920:4310" placeholder="..." />
+            <marker date="1465787823584" expanded="true" signature="2950:3303" placeholder="..." />
+            <marker date="1465787823584" expanded="true" signature="3334:3578" placeholder="..." />
+            <marker date="1465787823584" expanded="true" signature="4387:4508" placeholder="..." />
           </folding>
         </state>
       </provider>

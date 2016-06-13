@@ -9,7 +9,17 @@ hr{
 }
 
 button{
-    box-shadow: 3px 3px 5px;
+    font-size:     16px;
+    background:    #c5050c;
+    background:    -webkit-linear-gradient(#c5050c, #4c1130);
+    background:    linear-gradient(#c5050c, #4c1130);
+    border:        1px solid #000;
+    border-radius: 9px;
+    color:         #fff;
+    display:       inline-block;
+    padding:       8px 20px;
+    text-align:    center;
+    text-shadow:   1px 1px 0 #000;
 }
 
 button:hover, button:focus, .button:hover, .button:focus {
