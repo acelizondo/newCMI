@@ -1,0 +1,83 @@
+/*--------------------------------------------PHONE DEFAULT-----------------------------------------------------------*/
+header{
+    background-color: #f6f6f6;
+    padding: 1em 0 .5em 0;
+}
+
+hr{
+    width: 15%;
+}
+
+button{
+    font-size:     16px;
+    background:    #c5050c;
+    background:    -webkit-linear-gradient(#c5050c, #4c1130);
+    background:    linear-gradient(#c5050c, #4c1130);
+    border:        1px solid #000;
+    border-radius: 9px;
+    color:         #fff;
+    display:       inline-block;
+    padding:       8px 20px;
+    text-align:    center;
+    text-shadow:   1px 1px 0 #000;
+}
+
+button:hover, button:focus, .button:hover, .button:focus {
+    box-shadow: 3px 3px 5px;
+    background-color: darkslategrey;
+}
+
+
+div.logo{
+    height: 68px;
+    float: left;
+    background-repeat: no-repeat;
+}
+
+div.logo h2{
+    margin-left: 4.3em;
+    margin-top: 0.3em;
+}
+
+header ul.social {
+    margin: .5em 0 0 0;
+    float: right;
+    clear: right;
+}
+header ul.social li {
+    float: left;
+    list-style-type:none;
+}
+header ul.social li a {
+    width: 2.4em;
+    height: 2.4em;
+    display: block;
+    background-position:center bottom;
+    background-repeat:no-repeat;
+    background-size:auto 90%;
+}
+header ul.social li.twitter a {background-image: url(../images/social_twitter.png);}
+header ul.social li.facebook a {background-image: url(../images/social_face.png);}
+header ul.social li.instagram a {background-image: url(../images/social_insta.png);}
+
+#submit{
+    margin-top: 0.5em;
+}
+
+
+
+/*--------------------------------------------TABLET DEFAULT----------------------------------------------------------*/
+@media only screen and (min-width: 40.063em){
+    div.logo{
+        height: 102px;
+    }
+}
+
+/*--------------------------------------------DESKTOP DEFAULT---------------------------------------------------------*/
+@media only screen and (min-width: 64.063em) {
+    div.logo{
+        height: 90px;
+    }
+
+
+}
